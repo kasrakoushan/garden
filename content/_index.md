@@ -1,5 +1,5 @@
 ---
-title: 🧠 Kasra's Digital Garden
+title: Kasra's Digital Garden
 enableToc: false
 ---
 
