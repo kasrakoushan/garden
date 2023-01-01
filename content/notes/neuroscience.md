@@ -9,11 +9,11 @@ I started "studying neuroscience" a few years ago, as in, I began reading an int
 
 So, what's the deal with tbe brain? It contains about a hundred billion neurons, and neurons connect to each other via synapses. Each neuron has a cell body, dendrites which take input, and an axon which produces output. 
 
-![Neuron parts](images/neuron-parts.png)
+![Neuron parts](notes/images/neuron-parts.png)*The basic anatomy of a neuron*
 
-A note about anatomy which confused me at first: while the cell body projects into _one_ axon, that axon can subsequently branch. That's why we say the neuron has _one_ axon even though it may project on multiple neurons. (Even this point I'm not entirely sure about, tbh.) Dendrites, on the other hand, are present aplenty in each neuron, sometimes in the thousands. 
+A note about anatomy which confused me at first: while the cell body projects into _one_ axon, that axon can subsequently branch and form synapses with multiple further neurons. That's why we say the neuron has _one_ axon even though it may project onto multiple neurons. (Even this point I'm not entirely sure about, tbh.) Dendrites, on the other hand, are present aplenty in each neuron, sometimes in the tens of thousands.
 
-This is all well and good, except for the fact that there is this whole other category of cells in the brain called _glia_, and we're not 100% sure about what glia do. Some kind of peripheral support / cleanup role, perhaps? Or maybe they're actually very important.
+This is all well and good, except for the fact that there is this whole other category of cells in the brain called _glia_, and we're not 100% sure about what glia do. Some kind of peripheral support or cleanup role, perhaps? Or maybe they're actually very important.
 
 
 
