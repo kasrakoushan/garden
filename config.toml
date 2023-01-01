@@ -1,4 +1,4 @@
-baseURL = "https://brain.kasra.io/"
+baseURL = "http://brain.kasra.io/"
 languageCode = "en-us"
 googleAnalytics = "G-XYFD95KB4J"
 relativeURLs = false
