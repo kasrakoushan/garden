@@ -25,7 +25,7 @@ First, let's explain what an action potential is. Neurons by default have an imb
 
 By a series of complicated steps that I won't get into here (which involve the passive and active transfer of ions through ion channels and transporter proteins in the neuron's membrane), an "action potential" is a brief, sharp reversal of this electrical imbalance that propagates through the neuron's membrane like a wave. See this GIF:
 
-![Action potential](notes/images/neuron-resting-potential.png)*This "travelling reversal" of electric charge is what constitutes an action potential on neurons.*
+![Action potential](notes/images/action-potential.gif)*This "travelling reversal" of electric charge is what constitutes an action potential on neurons.*
 
 One other thing I should mention is: once the action potential has reached the end of the axon, there's a whole _other_ process for passing information onto the next neuron. Instead of directly creating an action potential on the next neuron, the axon _releases chemicals_ into the synapse. We call these chemicals neurotransmitters. The effect of the neurotransmitter is to trigger an action potential on the next neuron, _assuming_ there is sufficient neurotransmitter to actually trigger the neuron.
 
