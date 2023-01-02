@@ -103,7 +103,7 @@ Hebb proposed his theory in the 1950's, and a few decades later it was developed
 
 The general idea is that in this way, the brain adjusts its weights and it learns. This is how current deep learning models work: the magic is in the weights of the connections between nodes; the "memory" of the network is in the set of connections and weights of each of those connections. (See my [notes on AI](notes/ai-discourse.md).)
 
-This is a _connectionist_ or _associationist_ picture of learning. Crucial to this picture is the idea of _cell assemblies as representations of objects or ideas_. So, if I see a picture of my grandma, there's a specific set of neurons that are active in my brain, and this is what represents my grandma. And thne, if I later just think about my grandma, the same assembly is activated. Memory is just the linking of various sensory inputs together. 
+This is a _connectionist_ or _associationist_ picture of learning. Crucial to this picture is the idea of _cell assemblies as representations of objects or ideas_. So, if I see a picture of my grandma, there's a specific set of neurons that are active in my brain, and this is what represents my grandma. And then, if I later just think about my grandma, the same assembly is activated. Memory is just the linking of various sensory inputs together. 
 
 ![Hebbian cell assembly](notes/images/hebb-cell-assembly.png)*The Hebbian cell assembly*
 
