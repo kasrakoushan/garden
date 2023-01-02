@@ -43,12 +43,15 @@ One other thing I should mention is: once the action potential has reached the e
 Our ability to measure neural activity in humans is quite crude. Part of this is a technological limitation and part of it is ethical. With humans, we generally avoid doing anything invasive on the brain unless we absolutely have to (e.g. to treat severe forms of epilepsy or treatment-resistant depression). We don't just cut out large pieces of the brain willy-nilly and see what happens (not anymore, at least).
 
 So instead we measure the brain indirectly:
-- **Electrical activity (EEG):** we tape electrodes all over the scalp and measure changes in electrical potential. Unfortunately, the electrical potential variations of an individual neuron are far too small to be measurable from the scalp, so the EEG is really measuring the aggregate activity of large numbers of neurons. This is why you see "brainwaves" on EEG recordings: you're only able to see activity if hundreds of thousands of neurons are all firing in harmony, and as it turns out the brain does have these patterns of activity at a few distinctive frequency/amplitude combinations (we call these e.g. alpha waves, beta waves, and so on.)
-    - We can also _implant electrodes_ directly onto the brain (ECoG), which gives us _much_ more fidelity in measuring action potentials. 
+- **Electrical activity (EEG):** we tape electrodes all over the scalp and measure changes in electrical potential. Unfortunately, the electrical potential variations of an individual neuron are far too small to be measurable from the scalp, so the EEG is really measuring the aggregate activity of large numbers of neurons. 
+    - This is why you see "brainwaves" on EEG recordings: neurons are only measurable if hundreds of thousands of them are all firing in harmony, and as it turns out the brain does have these synchronized patterns of activity at a few distinctive frequency & amplitude combinations (we call these e.g. alpha waves, beta waves, and so on.)
+    ![EEG measurements during sleep](notes/images/eeg-measurement.png)*EEG measurements during sleep. We just get a high-level picture of activity*
+    - We can also _implant electrodes_ directly onto the brain (ECoG), which gives us _much_ more fidelity in measuring action potentials. This is what Neuralink does to, e.g. determine which direction the brain wants to move a joystick.
     - EEG measures _electrical_ activity, while MEG measures _magnetic_ activity (wherever there is a changing electric field, there will also be a magnetic field, so they are effectively measuring the same thing).
 - **Blood flow (fMRI):** using magical physics, we measure the flow of blood in different regions of the brain, which supposedly gives us an idea about what brain regions are most active.
 
 While fMRI provides higher spatial resolution, EEG and MEG provide higher temporal resolution.
+![PET imaging](notes/images/pet-image-sleep.png)*PET imaging during sleep.*
 
 There are other techniques too like PET scans, but the above seem the most common.
 
