@@ -10,9 +10,9 @@ I started "studying neuroscience" a few years ago, as in, I began reading an int
 I'm almost done now (98% of the way through), so here goes.
 
 
-# Basic facts
+## Basic facts
 
-## Neurons
+### Neurons
 
 So, what's the deal with tbe brain? It contains about a hundred billion neurons, and neurons connect to each other via synapses. Each neuron has a cell body, dendrites which take input, and an axon which produces output. 
 
@@ -24,7 +24,7 @@ This is all well and good, except for the fact that there is this whole other ca
 
 With that picture set, let's talk about some high-level takeaways and questions.
 
-## Action potentials
+### Action potentials
 
 Action potentials are how neurons transmit information. Let's explain what an action potential is. Neurons by default have an imbalance of charge on their membrane: the inside has slightly more negative charge than the outside:
 
@@ -38,7 +38,7 @@ One other thing I should mention is: once the action potential has reached the e
 
 (Some more details: a little bit of neurotransmitter slightly _depolarizes_ the target neuron, i.e. it begins to reverse the default electric charge imbalance. As more neurotransmitter builds up, the reversal of charge goes further and further until suddenly, it's strong enough to trigger a full action potential on the target neuron. Note that some neurotransmitters have the opposite effect: instead of reversing the target neuron's polarity, they actually _increase_ it, i.e. they make it harder for the neuron to have an action potential. Each neuron takes inputs from many preceding neurons, and the synapse for each of these preceding neurons is either inhibitory or excitatory.)
 
-## Our ability to measure neural activity in humans is quite crude.
+### Our ability to measure neural activity in humans is quite crude.
 
 Part of this is a technological limitation and part of it is ethical. With humans, we generally avoid doing anything invasive on the brain unless we absolutely have to (e.g. to treat severe forms of epilepsy or treatment-resistant depression). We don't just cut out large pieces of the brain willy-nilly and see what happens (not anymore, at least).
 
@@ -54,9 +54,9 @@ There are other techniques too like PET scans, but the above seem the most commo
 
 Outside of humans (and occasionally in humans too, via measures like Deep-Brain Stimulation), we do more invasive things like inserting electrodes into random places in the brain, or modifying the genes of the animal so as to make their neurons triggerable via light.
 
-# Commentary
+## Commentary
 
-## The significance of action potentials
+### The significance of action potentials
 
 One question worth asking: is the propagation of action potentials the correct way to understand what the brain is doing? Is this the building block of the brain's information processing capacities?
 
@@ -71,7 +71,7 @@ So one way you could think of the brain is: convert signals from the world into 
 
 Another line of evidence of action potentials being the fundamental operating unit of the brain: the brain-machine interfaces we've successfully built so far (e.g. Neuralink) operate by measuring changes in electrical potential on neurons, AFAIK.
 
-## Macro versus micro
+### Macro versus micro
 
 One general takeaway from reading the book: **our understanding of the macro is much worse than our understanding of the micro**. There are open questions at all levels of granularity, but at the higher levels we don't even have an operating framework for how the brain does any of the things we care about. We understand the mechanics of individual neurons fairly well, but at the level of the whole brain, we have some _very rough_ ideas like "the cortex seems to be where the higher-level processing happens". Well, let's actually list out what we know about the higher-level properties of the brain:
 - Certain regions are specialized for specific kinds of activity. Some clear-cut examples:
@@ -86,11 +86,11 @@ What's the deal with the location of the different regions of cortex, e.g. why i
 
 How do we discern that a given region is responsible for a given function? Either by finding that it's more active in specific tasks (as measured by fMRI), or by finding that when that region is damaged, the corresponding function is damaged.
 
-## What part of the brain is involved with consciousness?
+### What part of the brain is involved with consciousness?
 
 We really don't know. Some people claim it's the cortex, some people claim it's the thalamus (which acts as a kind of "relay switch" between cortex and sensory organs), some people claim consciousness is everywhere, some people claim it's in the midbrain.
 
-## How does the brain learn?
+### How does the brain learn?
 
 This is one of the spicier parts. Here's the basic picture we have right now: we learn by modifying the weights of connections between neurons. 
 

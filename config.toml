@@ -1,6 +1,6 @@
 baseURL = "https://brain.kasra.io/"
 languageCode = "en-us"
-googleAnalytics = "G-XYFD95KB4J"
+googleAnalytics = "UA-70417739-2"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
