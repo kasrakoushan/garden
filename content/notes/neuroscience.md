@@ -38,9 +38,9 @@ One other thing I should mention is: once the action potential has reached the e
 
 (Some more details: a little bit of neurotransmitter slightly _depolarizes_ the target neuron, i.e. it begins to reverse the default electric charge imbalance. As more neurotransmitter builds up, the reversal of charge goes further and further until suddenly, it's strong enough to trigger a full action potential on the target neuron. Note that some neurotransmitters have the opposite effect: instead of reversing the target neuron's polarity, they actually _increase_ it, i.e. they make it harder for the neuron to have an action potential. Each neuron takes inputs from many preceding neurons, and the synapse for each of these preceding neurons is either inhibitory or excitatory.)
 
-### Our ability to measure neural activity in humans is quite crude.
+### Measuring the brain
 
-Part of this is a technological limitation and part of it is ethical. With humans, we generally avoid doing anything invasive on the brain unless we absolutely have to (e.g. to treat severe forms of epilepsy or treatment-resistant depression). We don't just cut out large pieces of the brain willy-nilly and see what happens (not anymore, at least).
+Our ability to measure neural activity in humans is quite crude. Part of this is a technological limitation and part of it is ethical. With humans, we generally avoid doing anything invasive on the brain unless we absolutely have to (e.g. to treat severe forms of epilepsy or treatment-resistant depression). We don't just cut out large pieces of the brain willy-nilly and see what happens (not anymore, at least).
 
 So instead we measure the brain indirectly:
 - **Electrical activity (EEG):** we tape electrodes all over the scalp and measure changes in electrical potential. Unfortunately, the electrical potential variations of an individual neuron are far too small to be measurable from the scalp, so the EEG is really measuring the aggregate activity of large numbers of neurons. This is why you see "brainwaves" on EEG recordings: you're only able to see activity if hundreds of thousands of neurons are all firing in harmony, and as it turns out the brain does have these patterns of activity at a few distinctive frequency/amplitude combinations (we call these e.g. alpha waves, beta waves, and so on.)
