@@ -7,7 +7,7 @@ Welcome to my digital brain! Still figuring it out lol.
 
 ### My interests
 
-- Neuroscience. See, for example, [some notes](notes/neuroscience.md)
+- Neuroscience. See [current understanding of neuroscience](notes/neuroscience.md).
 - Meditation
 - Writing
-- Philosophy
+- Philosophy. See [Contra Harris contra Hoel on consequentialism](notes/hoel-harris-utilitarianism.md).
