@@ -1,0 +1,20 @@
+---
+title: Are lesions a good proxy for brain function?
+enableToc: true
+---
+
+One of the recurring themes in our understanding of the brain is the study of *lesions*. Or perhaps more broadly, regions of the brain that have either been damaged (due to disease, injury) or removed surgically.
+
+Most of the time that we say "X region of the brain is responsible for Y function", it's based on a study of damage or removal of that region. A classic example is [patient HM](https://en.wikipedia.org/wiki/Henry_Molaison), who had his hippocampi removed to mitigate seizures, and subsequently lost the ability to form new declarative memories. Based on this, neuroscientists speculated that the hippocampus is involved in the formation of durable memories. Similar reasoning applies to [Broca's aphasia](https://en.wikipedia.org/wiki/Expressive_aphasia) and [Wernicke's aphasia](https://en.wikipedia.org/wiki/Receptive_aphasia), which are conditions that have led us to conclude that particular brain regions are involved with specific sub-functions of language, like generating speech.
+
+Unfortunately, arguments like this don't give us a robust understanding of *how* any of these brain functions work. The fact that a function Y is impaired after we remove region X of the brain does *not* imply that region X is the exclusive zone in which function Y is executed; and further, it says nothing interesting about *how* Y is accomplished. There could be many other explanations:
+- region X could be one of several regions involved in accomplishing Y
+- region X could be responsible for some "prerequisite" task that enables function Y, without actually being involved in Y
+
+At best, exhaustive analysis of how damage to different regions affects behavior can give us a high-level map of how the brain works; but as [David Poeppel notes](https://www.youtube.com/watch?v=-1su5DWUYXo) a map is not an explanation. We have a complete map of the C elegans nervous system down the last neuron and synapse, but we do not have an understanding of how this map generates the worm's behavior.
+
+In a [2017 study](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005268) provocatively titled *Could a Neuroscientist Understand a Microprocessor?*, researchers applied neuroscience techniques (like creating lesions and measuring electrical activity) to a microprocessor, and demonstrated that such techniques gave no fundamental insight on the actual workings of the processor. As summarized in Poeppel et al's [*Neuroscience Needs Behavior*](https://pubmed.ncbi.nlm.nih.gov/28182904/):
+
+> The study poses the question of whether a neuroscientist could understand a microprocessor. They applied numerous neuroscience techniques to a high-fidelity simulation of a classic video game microprocessor (the ‘‘brain’’) in an attempt to understand how it controls the initiation of three well-known videogames (which they dubbed as ‘‘behaviors’’) originally programmed to run on that microprocessor. Crucial to the experiment was the fact that it was performed on an object that is already fully understood: the fundamental fetch-decode-execute structure of a microprocessor can be drawn in a diagram. Understanding the chip using neuroscientific techniques would therefore mean being able to discover this diagram. In the study, (simulated) transistors were lesioned, their tuning determined, local field potentials recorded, and dimensionality reduction performed on activity across all the transistors. The result was that none of these techniques came close to reverse engineering the standard stored-program computer architecture (Jonas and Kording, 2017).
+
+Poeppel argues that to truly understand the brain, we need not just ad hoc manipulations and measurements of brain activity, but robust *theories*—in particular, algorithms—that would explain *how* the brain executes functions like speech, and then test those theories with measurements of the brain. We can't go the other way around.

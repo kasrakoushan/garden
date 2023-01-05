@@ -7,7 +7,7 @@ Inspired by silenceinbetween's lovely post [Current Understanding of Biology](ht
 
 I started "studying neuroscience" a few years ago, as in, I began reading an intro textbook a few years ago. I wrote about it early on in [A foray into neuroscience](https://bitsofwonder.substack.com/p/a-foray-into-neuroscience) and more recently in [Textbooks as a preventative for depression](https://bitsofwonder.substack.com/p/textbooks-as-a-preventative-for-depression), although the latter is more about the motivation behind reading a textbook.
 
-I'm almost done now (98% of the way through), so here goes.
+I'm ~~almost done now (98% of the way through)~~ finished as of 1/4/2023, so here goes.
 
 
 ## Basic facts
@@ -87,7 +87,7 @@ One general takeaway from reading the book: **our understanding of the macro is 
 
 What's the deal with the location of the different regions of cortex, e.g. why is vision in the back? It's actually just a matter of where sensory neurons tend to end up in the cortex. So the visual cortex is in the back because the optic nerve takes input from the eyes and projects it all the way to the back of the head, and so on.
 
-How do we discern that a given region is responsible for a given function? Either by finding that it's more active in specific tasks (as measured by fMRI), or by finding that when that region is damaged, the corresponding function is damaged.
+How do we discern that a given region is responsible for a given function? Either by finding that it's more active in specific tasks (as measured by fMRI), or by finding that when that region is damaged, the corresponding function is damaged. See [Are lesions a good proxy for brain function?](notes/lesions.md).
 
 ### What part of the brain is involved with consciousness?
 
