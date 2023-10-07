@@ -1,7 +1,8 @@
 ---
-title: This site is WIP
+title: Home
 ---
 
+Welcome! this site is still WIP.
 ### My interests
 
 - Neuroscience. 
